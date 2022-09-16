@@ -34,9 +34,11 @@
 
 - 🔭 I’m currently working on ... Full DApp with Dex, Dao, GameFi features and an NFT marketplace
 <!-- - 🌱 I’m currently learning ... -->
-- 👯 I’m looking to collaborate on ... any Firebase-like Blockchain project
+- 👯 I’m looking to collaborate on any Firebase-like Blockchain project
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ... <a href="mailto:gkenny896@gmail.com" target="_blank">gkenny896@gmail.com</a>&nbsp;&nbsp;
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: <a href="mailto:gkenny896@gmail.com" target="_blank">gkenny896@gmail.com</a>&nbsp;&nbsp;
+
+- 😄 Pronouns: He/Him
+
+<!-- - ⚡ Fun fact: ... -->
