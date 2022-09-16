@@ -1,7 +1,7 @@
 
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>I am a Software Engineer && a Blockchain Enthusiast. Available for hire :) </p>
+<p align='center'>I am a Frontend Engineer && a Blockchain Developer. Available for hire :) </p>
 <p align='center'>React, Node/Express, React Native </p>
 
 <p align='center'>
