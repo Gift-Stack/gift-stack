@@ -2,7 +2,7 @@
 <h1 align='center'>Hi there 👋🏾</h1>
 
 <p align='center'>I am a Frontend Engineer && a Blockchain Developer. Available for hire :) </p>
-<p align='center'>React, Node/Express, React Native </p>
+<p align='center'>React, Node/Express, React Native, Web3js, Solidity </p>
 
 <p align='center'>
 <a href="https://wa.me/2347045583524?text=Hello Gift" target="_blank">
@@ -28,17 +28,17 @@
 </p> 
  
 
-<!--
-**Gift-Stack/gift-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Gift-Stack/gift-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on ... Full DApp with Dex, Dao, GameFi features and an NFT marketplace
+<!-- - 🌱 I’m currently learning ... -->
+- 👯 I’m looking to collaborate on ... any Firebase-like Blockchain project
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: ... <a href="mailto:gkenny896@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> gkenny896@gmail.com
+</a>&nbsp;&nbsp;
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
