@@ -37,8 +37,6 @@
 - 👯 I’m looking to collaborate on ... any Firebase-like Blockchain project
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ... <a href="mailto:gkenny896@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> gkenny896@gmail.com
-</a>&nbsp;&nbsp;
+- 📫 How to reach me: ... <a href="mailto:gkenny896@gmail.com" target="_blank">gkenny896@gmail.com</a>&nbsp;&nbsp;
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
